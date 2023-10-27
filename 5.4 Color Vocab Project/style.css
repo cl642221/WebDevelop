@@ -1,0 +1,32 @@
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: green;
+}
+#orange{
+    color: orange;
+}
+#yellow{
+    color: yellow;
+}
+.color-title{
+    font-weight: normal;
+}
+img{
+    height: 200px;
+    width: 200px;  
+}
+h1{
+    background-color: aqua;
+}
+/*
+you can use 
+*{
+    background-color: burlywood;
+}
+to check if the css file link to the htm file.
+*/
